@@ -26,5 +26,8 @@
   "homepage": "https://github.com/herumi/bls-wasm#readme",
   "devDependencies": {
     "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "perf_hooks": "0.0.1"
   }
 }
